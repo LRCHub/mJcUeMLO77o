@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Anniversary",
+  "base_artist": "平井 大",
+  "createdAt": "2026-02-13T19:07:53.247621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Layla - 40th Anniversary Version / 2010 Remastered",
+      "artist": "Derek & The Dominos",
+      "has_synced": true,
+      "path": "select/01_Layla_-_40th_Anniversary_Version___2010_Remastered_Derek_&_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anniversary",
+      "artist": "Dylan Scott",
+      "has_synced": false,
+      "path": "select/02_Anniversary_Dylan_Scott.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anniversary",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/03_Anniversary_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 Kanye West Mix - Thriller 25th Anniversary Remix Featuring Kanye West",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Billie_Jean_2008_Kanye_West_Mix_-_Thriller_25th_Anniversary_Remix_Featuring_Kany_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 Kanye West Mix (Thriller 25th Anniversary Remix)",
+      "artist": "Michael Jackson Kanye West",
+      "has_synced": true,
+      "path": "select/05_Billie_Jean_2008_Kanye_West_Mix_(Thriller_25th_Anniversary_Remix)_Michael_Jackson_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sadie's Anniversary",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/06_Sadie's_Anniversary_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vincent Price Excerpt From \"Thriller\" Voice-Over Session - Thriller 25th Anniversary Voice-Over Session",
+      "artist": "Vincent Price",
+      "has_synced": false,
+      "path": "select/07_Vincent_Price_Excerpt_From__Thriller__Voice-Over_Session_-_Thriller_25th_Anniver_Vincent_Price.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vincent Price Excerpt From \"Thriller\" Voice-Over Session (Thriller 25th Anniversary Voice-Over Session)",
+      "artist": "Vincent Price",
+      "has_synced": false,
+      "path": "select/08_Vincent_Price_Excerpt_From__Thriller__Voice-Over_Session_(Thriller_25th_Annivers_Vincent_Price.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Girl Is Mine (2008 with will.i.am) (with will.i.am) - Thriller 25th Anniversary Remix",
+      "artist": "Michael Jackson feat. will.i.am",
+      "has_synced": true,
+      "path": "select/09_The_Girl_Is_Mine_(2008_with_will.i.am)_(with_will.i.am)_-_Thriller_25th_Annivers_Michael_Jackson_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wanna Be Startin' Somethin' 2008 with Akon (Thriller 25th Anniversary Remix)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/10_Wanna_Be_Startin'_Somethin'_2008_with_Akon_(Thriller_25th_Anniversary_Remix)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boyfriend - 10th Anniversary Edition",
+      "artist": "Best Coast",
+      "has_synced": false,
+      "path": "select/11_Boyfriend_-_10th_Anniversary_Edition_Best_Coast.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boyfriend (10th Anniversary Edition)",
+      "artist": "Best Coast",
+      "has_synced": false,
+      "path": "select/12_Boyfriend_(10th_Anniversary_Edition)_Best_Coast.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Our Anniversary",
+      "artist": "Bill Callahan",
+      "has_synced": true,
+      "path": "select/13_Our_Anniversary_Bill_Callahan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Anniversary",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/14_Anniversary_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Anniversary",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/15_Anniversary_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Anniversary Song",
+      "artist": "Cowboy Junkies",
+      "has_synced": true,
+      "path": "select/16_Anniversary_Song_Cowboy_Junkies.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beat It 2008 (Thriller 25th Anniversary Remix) [feat. Fergie]",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/17_Beat_It_2008_(Thriller_25th_Anniversary_Remix)_[feat._Fergie]_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anniversary",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_Anniversary_平井大.txt"
+    }
+  ]
+}
